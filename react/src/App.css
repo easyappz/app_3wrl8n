@@ -20,3 +20,12 @@
   padding: 20px;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
+
+.App-subheader {
+  font-family: 'Arial', sans-serif;
+  font-weight: normal;
+  font-size: calc(8px + 1.5vmin);
+  margin: 10px 0 0 0;
+  color: #dcdcdc;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
+}
